@@ -63,10 +63,7 @@ Generates a full structured training plan (JSON).
 
 ---
 
-## 📷 Screenshots
-_Add screenshots here later for Play Store / App Store look._
 
----
 
 ## 🔧 Installation (Dev)
 
